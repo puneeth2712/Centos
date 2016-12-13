@@ -2,4 +2,10 @@
 This is a new file for testing.
 =======
 File version 1.0
+<<<<<<< HEAD
 >>>>>>> e1d85b1c21ee375fedac1ac26c530ec5ad991104
+=======
+File version 2.0
+>>>>>>> 56de8e18558c65533e78be3f8c1a9cbbfa52e8c2
+
+File version 3.0
